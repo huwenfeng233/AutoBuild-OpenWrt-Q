@@ -9,7 +9,7 @@ name: Openwrt_Build_x86_64
 on: 
   release:
     types: [published]
-   push:
+  push:
     branches: 
       - master
   # schedule:
