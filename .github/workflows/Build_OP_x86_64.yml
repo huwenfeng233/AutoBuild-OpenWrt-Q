@@ -1,7 +1,7 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: LinSir
+# Author: LinSir 
 #=================================================
 
 name: Openwrt_Build_x86_64
